@@ -21,7 +21,7 @@ python main_SA13_1.py
 
 ## Testing 
 
-Our Model weights:
+Our best model weights:
 
 https://rec.ustc.edu.cn/share/a7ae72b0-4120-11f0-84c6-5fc3d25bb880(code：nckc)
 
