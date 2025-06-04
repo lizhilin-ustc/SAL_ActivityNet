@@ -27,7 +27,7 @@ https://rec.ustc.edu.cn/share/a7ae72b0-4120-11f0-84c6-5fc3d25bb880
 (code：nckc)
 
 args.MODE = 'test' \
-args.MODEL_FILE = '/path/to/model_best.pth.tar' \
+args.MODEL_FILE = '/path/to/model_best.pth.tar'
 
 You can evaluate a trained model by running:
 ```
